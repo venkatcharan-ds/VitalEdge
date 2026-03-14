@@ -1,0 +1,5 @@
+{
+  "name": "VitaLEdge",
+  "description": "AI-powered emergency response platform that predicts trauma severity and coordinates hospitals.",
+  "requestFramePermissions": []
+}
