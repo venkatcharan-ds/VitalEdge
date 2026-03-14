@@ -77,6 +77,14 @@ export function Contact() {
                   })}
                 </div>
 
+                <div className="mt-8">
+                  <a
+                    href="mailto:venkatcharan.ds@gmail.com"
+                    className="inline-flex w-full items-center justify-center rounded-full h-12 px-6 bg-teal-500 text-black font-bold tracking-wide uppercase hover:bg-teal-400 transition-colors shadow-[0_0_20px_rgba(20,184,166,0.35)]"
+                  >
+                    Email Team
+                  </a>
+                </div>
               </div>
             </motion.div>
           </div>
